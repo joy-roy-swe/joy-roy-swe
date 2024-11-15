@@ -45,8 +45,10 @@ Feel free to connect with me and explore my repositories for a closer look at my
 ---
 
 ## 📫 **Connect with Me**
-- [LinkedIn](https://linkedin.com/in/your-profile)  
-- [Email](mailto:your-email@example.com)
+
+- [![Portfolio](https://img.shields.io/badge/Portfolio-joy--roy--swe.github.io-blue?style=flat&logo=github)](http://joy-roy-swe.github.io/)
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-joy--roy-blue?style=flat&logo=linkedin)](https://linkedin.com/in/joy-roy-swe)
+- [![Email](https://img.shields.io/badge/Email-joy@example.com-blue?style=flat&logo=gmail)](mailto:joy.roy.nil76@gmail.com)
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=joy-roy-swe&theme=dark&hide_border=true&include_all_commits=false&count_private=false)<br/>
